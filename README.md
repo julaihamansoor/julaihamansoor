@@ -26,6 +26,7 @@ Looking forward to gaining deeper insights into Computer Science and its related
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=SpringBoot)
 
 ### Database
