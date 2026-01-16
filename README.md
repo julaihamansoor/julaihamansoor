@@ -38,5 +38,6 @@ Looking forward to gaining deeper insights into Computer Science and its related
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJIDEA)
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
 
 ---
