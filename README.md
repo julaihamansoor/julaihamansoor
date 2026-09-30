@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Julaiha Yasmin M
 
-🎓 B.E. Computer Science Engineering (3rd Year)  
+🎓 B.E. Computer Science Engineering (4th Year)  
 💻 Aspiring Full-Stack Developer  
 🌱 Passionate about learning and building real-world applications  
 
